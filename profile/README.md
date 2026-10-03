@@ -13,8 +13,8 @@
 
 **Vezham** is an all-in-one collaborative Suite & App Development Company designed to enhance productivity and streamline your work. -->
 
-<!-- ### Getting Started
+### Getting Started
 
-See [guidelines](https://storybook.vezham.com/?path=/docs/guidelines-get-started--overview) to get started. -->
+<!-- See [guidelines](https://storybook.vezham.com/?path=/docs/guidelines-get-started--overview) to get started. -->
 
 <!-- ## Community & Support -->
